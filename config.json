@@ -1,0 +1,18 @@
+{
+    "cognitive_atlas_task_id": "trm_4f241d7adf14e",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/local-global-letter",
+    "contributors": [
+        "Ian Eisenberg",
+        "Zeynep Enkavi",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "local-global-letter",
+    "name": "Local-Global Letter",
+    "reference": ["http://www.sciencedirect.com/science/article/pii/S001002859990734X"],
+    "template": "jspsych",
+    "time": 8
+}
